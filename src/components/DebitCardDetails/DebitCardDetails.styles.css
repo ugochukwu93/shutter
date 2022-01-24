@@ -1,0 +1,15 @@
+.cardInfo {
+    display: flex;
+    justify-content: space-between;
+   
+}
+.cardInfoContainer {
+    width: 395px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 10px 15px #00000008;
+    border-radius: 20px;
+    padding: 40px 20px 40px 20px;
+}
+.cardInfoContainer div {
+    color: #999999;
+}

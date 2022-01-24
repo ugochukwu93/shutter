@@ -1,0 +1,11 @@
+.allCards {
+    background-color: #F5F6FA;
+    width: 75em;
+    height: 90vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    /* padding-top: 50px; */
+}
+.allCards2 {
+    padding-top: 50px;
+}

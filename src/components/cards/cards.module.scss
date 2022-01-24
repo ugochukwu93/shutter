@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    /* justify-content: space-between; */
+}
+.card2 {
+    
+    text-align: left;
+    margin-right: 70px;
+    border-radius: 20px;
+    width: 231px;
+    height: 138px;
+    background: transparent linear-gradient(0deg, #2C2C2C 0%, #373737 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 0px 15px 15px #0000000D;
+}
+.card2 p {
+    color: #979797;
+    margin: 20px 20px 0px 20px;
+}
+.card2Con {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 20px 0px 20px;
+    padding: 20px 20px 0px 20px;
+}
+.card2Con h3 {
+    margin: 0px;
+    color: #ffffff
+}
+
+.card2Date {
+    display: flex;
+    justify-content: space-between;
+}
+.card2Date img {
+    margin: 20px 20px 0px 20px;
+}
